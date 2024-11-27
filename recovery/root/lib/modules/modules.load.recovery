@@ -105,6 +105,7 @@ clk-dbg-mt6789.ko
 mtk-ssc.ko
 spi-mt65xx.ko
 sc8950.ko
+sgm41516d.ko
 extdev_io_class.ko
 rt5133-regulator.ko
 clkbuf.ko

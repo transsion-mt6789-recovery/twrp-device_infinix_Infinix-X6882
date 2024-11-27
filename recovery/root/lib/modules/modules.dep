@@ -77,6 +77,7 @@
 /lib/modules/tinysys-scmi.ko:
 /lib/modules/mtk_rpmsg_mbox.ko: /lib/modules/mtk-mbox.ko
 /lib/modules/rpmb.ko:
+/lib/modules/sgm41516d.ko: /lib/modules/charger_class.ko
 /lib/modules/mtk-mbox.ko:
 /lib/modules/mtk_pbm.ko: /lib/modules/mtk_mdpm.ko /lib/modules/mtk_dynamic_loading_throttling.ko /lib/modules/mtk_low_battery_throttling.ko /lib/modules/pmic_lvsys_notify.ko /lib/modules/pmic_lbat_service.ko
 /lib/modules/clk-mt6789-impen.ko: /lib/modules/clk-common.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko /lib/modules/log_store.ko
