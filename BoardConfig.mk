@@ -12,6 +12,10 @@ include device/transsion/mt6789-common/BoardConfigCommon.mk
 # Assert
 TARGET_OTA_ASSERT_DEVICE := Infinix-X6882
 
+# Brightness
+override TW_DEFAULT_BRIGHTNESS := 2047
+override TW_MAX_BRIGHTNESS := 4095
+
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_Infinix-X6882
 TARGET_RECOVERY_DEVICE_MODULES := libinit_Infinix-X6882
